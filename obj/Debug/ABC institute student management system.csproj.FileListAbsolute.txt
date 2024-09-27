@@ -1,0 +1,23 @@
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\bin\Debug\ABC institute student management system.exe.config
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\bin\Debug\ABC institute student management system.exe
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\bin\Debug\ABC institute student management system.pdb
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC institute student management system.csprojAssemblyReference.cache
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.AdminLogin.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.MainMenu.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.Properties.Resources.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC institute student management system.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC institute student management system.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC institute student management system.exe
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC institute student management system.pdb
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentPage.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.AdminPage.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.LecturerDetails_A.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentAttendence_A.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentDetails_A.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentMarks_A.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentPayments_A.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentAttendence_S.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentDetails_S.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\obj\Debug\ABC_institute_student_management_system.StudentMarks_S.resources
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\bin\Debug\Database.mdf
+C:\Users\User\Desktop\project\ABC institute student management system\ABC institute student management system\bin\Debug\Database_log.ldf
